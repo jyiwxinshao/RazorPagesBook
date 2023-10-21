@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RazorPagesBook105
+build_property.RootNamespace = RazorPagesBook105
+build_property.ProjectDir = E:\HZVTC\ASP.NET CoreMVC\RazorPagesBook105\RazorPagesBook105\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\HZVTC\ASP.NET CoreMVC\RazorPagesBook105\RazorPagesBook105
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Books/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Books/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Borrows/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9ycm93c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Borrows/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9ycm93c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Borrows/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9ycm93c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Borrows/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9ycm93c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Borrows/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9ycm93c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/HZVTC/ASP.NET CoreMVC/RazorPagesBook105/RazorPagesBook105/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-s8vg2nr27z

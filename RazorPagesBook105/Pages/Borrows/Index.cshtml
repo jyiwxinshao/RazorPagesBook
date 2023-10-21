@@ -1,0 +1,69 @@
+﻿@page
+@model RazorPagesBook105.Pages.Borrows.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Borrow</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<form>
+    <p>
+        <select asp-for="BorrowISBN" asp-items="Model.ISBNs">
+            <option value="">All</option>
+        </select>
+        流水号:<input type="text" asp-for="SearchString" />
+        <input type="submit" value="筛选" />
+    </p>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Borrow[0].serialNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Borrow[0].ISBN)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Borrow[0].readerNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Borrow[0].loanDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Borrow[0].returnDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Borrow) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.serialNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ISBN)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.readerNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.loanDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.returnDate)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
